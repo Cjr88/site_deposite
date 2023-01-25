@@ -1,0 +1,51 @@
+body{
+	background-color: #e5e5e5;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+	background-color: #e5e5e5;
+}
+.caixa{
+	padding: 60px;
+	align-items: center;
+}
+footer p a{
+	margin: 5px 15px;
+}
+header #nav-principal a{
+color:rgb(50, 26, 26);
+font-size: 1.3em;
+}
+header #nav-principal a:hover{
+	background-color: #e6d9d9;
+}
+#nav-principal{
+text-transform: uppercase;
+}
+h1{
+	color:rgb(43, 57, 68)
+}
+#home{
+	background-color: #e5e5e5;
+}#nav-principal img{
+	border-radius: 30%;
+	width: 140px;
+}
+
+img{
+	width: 100%;
+	border-radius: 33px;
+}
+#home h1, p{
+	text-align: center;
+}
+p{
+	font-size: 1.2em;
+}
+h1, h4{
+	text-align: center;
+}
+.caixa h4{
+	font-weight: 100;
+	font-size:30px;
+}
